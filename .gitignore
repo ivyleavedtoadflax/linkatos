@@ -3,6 +3,7 @@ info.md
 *.pyc
 .cache
 .env-*
+
 __pycache__
 build
 dist
